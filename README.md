@@ -1,1 +1,2 @@
-# To-Do-list-with-ExpressJS
+# mytodolist
+This is a simple todolist webpage.
